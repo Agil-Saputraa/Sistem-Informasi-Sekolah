@@ -26,7 +26,7 @@
           <!-- Page Heading -->
          <div class="card shadow mb-4">
             <div class="card-header py-3">
-              <h1 class="m-0 font-weight-bold text-primary">Laporan Pembayaran SPP</h1>
+              <h1 class="m-0 font-weight-bold text-primary">Laporan Pembayaran SPPP</h1>
             </div>
             <div class="card-body">
               <a href="index.php" class="btn btn-primary btn-icon-split">
